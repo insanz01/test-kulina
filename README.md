@@ -2,7 +2,7 @@
 - NodeJS
 - TypeScript (Optional)
 
-# How to run
+# HOW TO RUN
 1. Buka folder project
 2. Jalankan file javascript pada folder dist
 	- Buka terminal / command prompt
